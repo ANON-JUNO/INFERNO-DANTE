@@ -1,1 +1,1 @@
-CREDITS: MARK HITSURAAN
+# Credits: By Me (Juno Delos Santos)
